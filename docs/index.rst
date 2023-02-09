@@ -359,11 +359,11 @@ NVIDIAドライバをアンインストールするコマンドは以下にな�
 
 対応している画像のモードは、学習機構と圧縮/解凍機構で異なり、以下の通りです。
 
-学習機構
+**学習機構**
 
 * Pillowが対応している全てのフォーマット（詳細は `Pillowのドキュメントページ <https://pillow.readthedocs.io/en/stable/handbook/concepts.html>`_ より確認できます。）
 
-圧縮/解凍機構
+**圧縮/解凍機構**
 
 * RGB
 * Gray Scale
