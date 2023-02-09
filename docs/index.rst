@@ -352,7 +352,7 @@ NVIDIAドライバをアンインストールするコマンドは以下にな�
 * png
 * ppm
 
-「Pillow」が対応している全てのフォーマットについては　`Pillowのドキュメントページ <https://pillow.readthedocs.io/en/stable/handbook/image-file-formats.html>`_ より確認できます。
+「Pillow」が対応している全てのフォーマットについては `Pillowのドキュメントページ <https://pillow.readthedocs.io/en/stable/handbook/image-file-formats.html>`_ より確認できます。
 
 対応画像のモード
 '''''''''''''''''''''''''''''
@@ -361,7 +361,7 @@ NVIDIAドライバをアンインストールするコマンドは以下にな�
 
 学習機構
 
-* Pillowが対応している全てのフォーマット（詳細は　`Pillowのドキュメントページ <https://pillow.readthedocs.io/en/stable/handbook/concepts.html>`_ より確認できます。）
+* Pillowが対応している全てのフォーマット（詳細は `Pillowのドキュメントページ <https://pillow.readthedocs.io/en/stable/handbook/concepts.html>`_ より確認できます。）
 
 圧縮/解凍機構
 
